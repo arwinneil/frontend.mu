@@ -4,6 +4,7 @@ defineOgImageComponent('Home')
 
 <template>
   <div>
+    <Snowfall />
     <HomeHero />
     <HomeLatestMeetup />
     <HomeFeaturedSpeakers />
